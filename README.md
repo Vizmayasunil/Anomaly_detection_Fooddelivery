@@ -7,11 +7,11 @@ data analysis to understand the dataset's nuances. We then delve into
 model building, utilizing various techniques for anomaly detection.
 
 Used Libraries:
-Pandas
-Numpy
-Matplotlib
-Plotly
-Geopy
-DateTime
-Scipy
+Pandas,
+Numpy,
+Matplotlib,
+Plotly,
+Geopy,
+DateTime,
+Scipy,
 Sklearn
